@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eod-logger/static/css/main.f855e6bc.css",
+    "main.js": "/eod-logger/static/js/main.0efb317f.js",
+    "static/js/453.1b3d53cf.chunk.js": "/eod-logger/static/js/453.1b3d53cf.chunk.js",
+    "index.html": "/eod-logger/index.html",
+    "main.f855e6bc.css.map": "/eod-logger/static/css/main.f855e6bc.css.map",
+    "main.0efb317f.js.map": "/eod-logger/static/js/main.0efb317f.js.map",
+    "453.1b3d53cf.chunk.js.map": "/eod-logger/static/js/453.1b3d53cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0efb317f.js"
+  ]
+}
